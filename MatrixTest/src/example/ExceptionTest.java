@@ -8,6 +8,12 @@ public class ExceptionTest {
 
  static int[] mas = { 1, 2, 3, 4 };
  private static Scanner scanner;
+ 
+ 
+ 
+ public void dfdf () {
+	 
+ }
 
  public static void main(String[] args) {
   scanner = new Scanner(System.in);

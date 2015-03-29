@@ -9,3 +9,13 @@
 2015-03-29 21:46:24 INFO  MessageBoardFrame:788 - Сортировка по фамилии.
 2015-03-29 21:46:30 INFO  MessageBoardFrame:792 - Сортировка по имени.
 2015-03-29 21:46:34 INFO  MessageBoardFrame:792 - Сортировка по имени.
+2015-03-29 22:30:27 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Sun Mar 29 22:30:27 EEST 2015]; root of context hierarchy
+2015-03-29 22:30:27 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 22:30:28 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6276ae34: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 22:30:39 INFO  MessageBoardFrame:788 - Сортировка по фамилии.
+2015-03-30 00:21:05 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Mar 30 00:21:05 EEST 2015]; root of context hierarchy
+2015-03-30 00:21:05 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:21:06 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6276ae34: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:30:53 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Mar 30 00:30:53 EEST 2015]; root of context hierarchy
+2015-03-30 00:30:53 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:30:54 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6276ae34: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy

@@ -871,3 +871,42 @@
 2015-03-29 21:28:51 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 21:28:51 EEST 2015]; root of context hierarchy
 2015-03-29 21:28:52 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
 2015-03-29 21:28:53 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 23:18:14 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@68a06c63: startup date [Sun Mar 29 23:18:14 EEST 2015]; root of context hierarchy
+2015-03-29 23:18:14 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 23:18:16 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2e058fad: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 23:19:05 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Sun Mar 29 23:19:05 EEST 2015]; root of context hierarchy
+2015-03-29 23:19:05 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 23:19:07 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6f1bbe75: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:12:10 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Mon Mar 30 00:12:10 EEST 2015]; root of context hierarchy
+2015-03-30 00:12:11 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:12:12 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:13:27 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Mon Mar 30 00:13:27 EEST 2015]; root of context hierarchy
+2015-03-30 00:13:27 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:13:29 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:14:42 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Mon Mar 30 00:14:42 EEST 2015]; root of context hierarchy
+2015-03-30 00:14:42 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:14:44 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6f1bbe75: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:17:07 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Mon Mar 30 00:17:07 EEST 2015]; root of context hierarchy
+2015-03-30 00:17:07 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:17:08 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:18:03 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Mon Mar 30 00:18:03 EEST 2015]; root of context hierarchy
+2015-03-30 00:18:03 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:18:04 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2e058fad: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:19:09 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Mon Mar 30 00:19:09 EEST 2015]; root of context hierarchy
+2015-03-30 00:19:09 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:19:10 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:19:33 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Mon Mar 30 00:19:33 EEST 2015]; root of context hierarchy
+2015-03-30 00:19:33 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:19:34 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6f1bbe75: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:19:47 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Mon Mar 30 00:19:47 EEST 2015]; root of context hierarchy
+2015-03-30 00:19:48 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:19:49 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:21:43 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Mon Mar 30 00:21:43 EEST 2015]; root of context hierarchy
+2015-03-30 00:21:43 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:21:45 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:23:01 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Mon Mar 30 00:23:01 EEST 2015]; root of context hierarchy
+2015-03-30 00:23:01 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:23:02 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:29:13 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Mon Mar 30 00:29:13 EEST 2015]; root of context hierarchy
+2015-03-30 00:29:13 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:29:21 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c124bb9: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy

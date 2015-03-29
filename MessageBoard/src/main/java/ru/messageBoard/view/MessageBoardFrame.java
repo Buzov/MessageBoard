@@ -10,6 +10,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
+import java.awt.event.WindowStateListener;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -324,7 +327,56 @@ public class MessageBoardFrame {
 		// frmMessageBoard.setBounds(100, 100, 750, 373); альтернативный способ
 		// задания размера
 		frmMessageBoard.setMinimumSize(new java.awt.Dimension(750, 300));
-		frmMessageBoard.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		//frmMessageBoard.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); операция при закрытии
+		// устанавливаетм слушатель закрытия
+		frmMessageBoard.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
+		frmMessageBoard.addWindowListener(new WindowListener() {
+
+			@Override
+			public void windowOpened(WindowEvent e) {
+				// TODO Auto-generated method stub
+				
+			}
+
+			@Override
+			public void windowClosing(WindowEvent e) {
+				exit();
+				
+			}
+
+			@Override
+			public void windowClosed(WindowEvent e) {
+				System.out.println(e.getID());
+				
+			}
+
+			@Override
+			public void windowIconified(WindowEvent e) {
+				// TODO Auto-generated method stub
+				
+			}
+
+			@Override
+			public void windowDeiconified(WindowEvent e) {
+				// TODO Auto-generated method stub
+				
+			}
+
+			@Override
+			public void windowActivated(WindowEvent e) {
+				// TODO Auto-generated method stub
+				
+			}
+
+			@Override
+			public void windowDeactivated(WindowEvent e) {
+				// TODO Auto-generated method stub
+				
+			}
+			
+		});
+		
 		GridBagLayout gridBagLayout = new GridBagLayout();
 		gridBagLayout.columnWidths = new int[] { 400, 0, 300, 0 };
 		gridBagLayout.rowHeights = new int[] { 0, 0, 0, 0, 0 };
@@ -575,7 +627,6 @@ public class MessageBoardFrame {
 							messageBoard.write(pathToFile);
 						} catch (IOException e1) {
 							LOG.error("Ошибка сохранения файла - " + pathToFile);
-							;
 						}
 						LOG.info("Сохранение базы в XML:" + pathToFile);
 					}
@@ -593,13 +644,34 @@ public class MessageBoardFrame {
 					InputEvent.ALT_MASK));
 			mntmExit.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
-					LOG.info("Выход из программы!");
-					System.exit(0);
+					exit();
 				}
 			});
 			// mntmExit.setMnemonic('q');
 		}
 		return mntmExit;
+	}
+	
+	private void exit() {
+		String[] buttons = { "Да!", "Сохранить и выйти!", "Нет!" };
+
+	    int rc = JOptionPane.showOptionDialog(null, "Хотите выйти?", "",
+	        JOptionPane.WARNING_MESSAGE, 0, null, buttons, buttons[2]);
+	    
+	    switch(rc) {
+	    	case 1:
+	    		messageBoard.sortByName();
+				try {
+					messageBoard.write(pathFromFile);
+				} catch (IOException e1) {
+					LOG.error("Ошибка сохранения файла - " + pathFromFile);
+				}
+	    	case 0:
+	    		System.exit(0);
+	    		LOG.info("Выход из приложения");
+	    		break;
+	    	case 2:   		
+	    }
 	}
 
 	private JSeparator getSeparator() {

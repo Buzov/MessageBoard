@@ -5,17 +5,17 @@
    <object class="ru.messageBoard.model.Declaration">
     <void property="date">
      <object class="java.util.Date">
-      <long>1427469813653</long>
+      <long>1427664140156</long>
      </object>
     </void>
     <void property="head">
-     <string>Куплю</string>
+     <string>Арендую участок под посадку</string>
     </void>
     <void property="nameOfAuthor">
      <string>Артур</string>
     </void>
     <void property="text">
-     <string>Тестовый текст</string>
+     <string>Арендую участок под посадку в раене станции метро ...</string>
     </void>
     <void property="topic">
      <string>аренда</string>
@@ -26,20 +26,20 @@
    <object class="ru.messageBoard.model.Declaration">
     <void property="date">
      <object class="java.util.Date">
-      <long>1427469822257</long>
+      <long>1427664170105</long>
      </object>
     </void>
     <void property="head">
-     <string>Продам</string>
+     <string>Продам спортивный велосипед</string>
     </void>
     <void property="nameOfAuthor">
      <string>Артур</string>
     </void>
     <void property="text">
-     <string>Тестовый текст</string>
+     <string>Продам спортивный велосипед в отличном состоянии</string>
     </void>
     <void property="topic">
-     <string>аренда</string>
+     <string>продажа</string>
     </void>
    </object>
   </void>
@@ -51,16 +51,16 @@
      </object>
     </void>
     <void property="head">
-     <string>Продам</string>
+     <string>Продам автомобиль марки ВАЗ </string>
     </void>
     <void property="nameOfAuthor">
      <string>Дмитрий</string>
     </void>
     <void property="text">
-     <string>Тестовый текст</string>
+     <string>Продам автомобиль марки ВАЗ в хорошем состоянии</string>
     </void>
     <void property="topic">
-     <string>Вело</string>
+     <string>продажа</string>
     </void>
    </object>
   </void>
@@ -72,16 +72,16 @@
      </object>
     </void>
     <void property="head">
-     <string>Куплю</string>
+     <string>Куплю дом в Харькове</string>
     </void>
     <void property="nameOfAuthor">
      <string>Кирил</string>
     </void>
     <void property="text">
-     <string>Тестовый текст</string>
+     <string>Куплю дом в Харькове в раене метро ...</string>
     </void>
     <void property="topic">
-     <string>Дом</string>
+     <string>покупка</string>
     </void>
    </object>
   </void>

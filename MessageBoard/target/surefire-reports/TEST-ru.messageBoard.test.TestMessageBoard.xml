@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.293" errors="0" skipped="0" tests="1" name="ru.messageBoard.test.TestMessageBoard">
+<testsuite failures="0" time="0.388" errors="0" skipped="0" tests="1" name="ru.messageBoard.test.TestMessageBoard">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/jre/lib"/>
@@ -26,7 +26,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/artur/Documents/workspace_luna/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf3053234101316461482.tmp"/>
+    <property name="classworlds.conf" value="/Users/artur/Documents/workspace_luna/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf5179186291301507378.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/artur/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -62,5 +62,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.293" classname="ru.messageBoard.test.TestMessageBoard" name="testMain"/>
+  <testcase time="0.388" classname="ru.messageBoard.test.TestMessageBoard" name="testMain"/>
 </testsuite>

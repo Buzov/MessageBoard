@@ -3,6 +3,7 @@ package ru.messageBoard.view;
 import java.awt.Button;
 import java.awt.Color;
 import java.awt.EventQueue;
+import java.awt.FlowLayout;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
@@ -12,7 +13,6 @@ import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
-import java.awt.event.WindowStateListener;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -62,8 +62,6 @@ import ru.messageBoard.model.util.DateFormat;
 import ru.messageBoard.model.util.MyFileFilter;
 import ru.messageBoard.model.util.ReadTopic;
 import ru.messageBoard.model.util.Validator;
-
-import java.awt.FlowLayout;
 
 /**
  * Этот класс является основной графической частью приложения
@@ -429,7 +427,6 @@ public class MessageBoardFrame {
 		return scrollPane;
 	}
 
-	@SuppressWarnings("finally")
 	private MessageBoard getMessageBoard() {
 		try {
 			if (messageBoard == null) {
@@ -580,6 +577,7 @@ public class MessageBoardFrame {
 						System.out.println(getMessageBoard().toString());
 						table.setModel(myTableModel);
 						columFormat();
+						setSelectionListener();
 						// перерисовываем таблицу
 						// getTable().revalidate() альтернативный способ;
 						// getTable().repaint() альтернативный способ;
@@ -947,6 +945,8 @@ public class MessageBoardFrame {
 
 				@Override
 				public void actionPerformed(ActionEvent e) {
+					getComboBox().setSelectedIndex(0);
+					
 					getTextField().setText(myName);
 				}
 			});

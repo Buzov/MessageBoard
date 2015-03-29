@@ -910,3 +910,85 @@
 2015-03-30 00:29:13 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Mon Mar 30 00:29:13 EEST 2015]; root of context hierarchy
 2015-03-30 00:29:13 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
 2015-03-30 00:29:21 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c124bb9: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:44:44 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Mon Mar 30 00:44:44 EEST 2015]; root of context hierarchy
+2015-03-30 00:44:45 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:44:46 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:45:34 INFO  MessageBoardFrame:827 - Запрос информации о программе.
+2015-03-30 00:46:47 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Mon Mar 30 00:46:47 EEST 2015]; root of context hierarchy
+2015-03-30 00:46:47 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:46:49 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:47:04 INFO  MessageBoardFrame:724 - Удален из таблицы: Артур 2015.03.30 12:22:20 аренда Арендую участок под посадку Арендую участок под посадку в раене станции метро ...
+
+2015-03-30 00:47:34 INFO  MessageBoardFrame:860 - Сортировка по фамилии.
+2015-03-30 00:47:47 INFO  MessageBoardFrame:860 - Сортировка по фамилии.
+2015-03-30 00:47:54 INFO  MessageBoardFrame:860 - Сортировка по фамилии.
+2015-03-30 00:47:56 INFO  MessageBoardFrame:860 - Сортировка по фамилии.
+2015-03-30 00:48:00 INFO  MessageBoardFrame:864 - Сортировка по имени.
+2015-03-30 00:48:01 INFO  MessageBoardFrame:864 - Сортировка по имени.
+2015-03-30 00:48:03 INFO  MessageBoardFrame:864 - Сортировка по имени.
+2015-03-30 00:48:08 INFO  MessageBoardFrame:827 - Запрос информации о программе.
+2015-03-30 00:48:17 INFO  MessageBoardFrame:571 - Загрузка базы из файла - /Users/artur/Documents/workspace_luna/git/MessageBoard/./serialization.xml
+2015-03-30 00:48:20 INFO  MessageBoardFrame:864 - Сортировка по имени.
+2015-03-30 00:48:22 INFO  MessageBoardFrame:864 - Сортировка по имени.
+2015-03-30 00:48:22 INFO  MessageBoardFrame:864 - Сортировка по имени.
+2015-03-30 00:48:23 INFO  MessageBoardFrame:864 - Сортировка по имени.
+2015-03-30 00:52:48 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Mon Mar 30 00:52:48 EEST 2015]; root of context hierarchy
+2015-03-30 00:52:48 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:52:49 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:53:03 INFO  MessageBoardFrame:568 - Загрузка базы из файла - /Users/artur/Documents/workspace_luna/git/MessageBoard/./serialization.xml
+2015-03-30 00:53:06 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:53:08 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:53:09 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:53:10 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:54:06 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Mon Mar 30 00:54:06 EEST 2015]; root of context hierarchy
+2015-03-30 00:54:06 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:54:08 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2e058fad: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:54:18 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:54:20 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:54:23 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:23 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:25 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:30 INFO  MessageBoardFrame:568 - Загрузка базы из файла - /Users/artur/Documents/workspace_luna/git/MessageBoard/./serialization.xml
+2015-03-30 00:54:33 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:35 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:36 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:37 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:38 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:40 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:43 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:54:50 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:58:13 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Mon Mar 30 00:58:13 EEST 2015]; root of context hierarchy
+2015-03-30 00:58:13 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:58:15 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:58:22 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:58:25 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:58:25 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:58:28 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:58:54 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Mon Mar 30 00:58:54 EEST 2015]; root of context hierarchy
+2015-03-30 00:58:54 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-30 00:58:56 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-30 00:59:05 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:59:06 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:59:17 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:59:19 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:59:22 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:22 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:23 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:23 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:25 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:25 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:27 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:40 INFO  MessageBoardFrame:568 - Загрузка базы из файла - /Users/artur/Documents/workspace_luna/git/MessageBoard/./serialization.xml
+2015-03-30 00:59:43 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:59:43 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:59:46 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:59:46 INFO  MessageBoardFrame:858 - Сортировка по фамилии.
+2015-03-30 00:59:49 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:49 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:50 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:51 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 00:59:52 INFO  MessageBoardFrame:862 - Сортировка по имени.
+2015-03-30 01:00:24 INFO  MessageBoardFrame:722 - Удален из таблицы: Артур 2015.03.30 01:00:19 услуги Арендую  участок под посадку Арендую  участок под посадку в раене станции метро ...
+
+2015-03-30 01:00:39 INFO  MessageBoardFrame:825 - Запрос информации о программе.
+2015-03-30 01:00:55 INFO  MessageBoardFrame:629 - Сохранение базы в XML:/Users/artur/Documents/workspace_luna/git/MessageBoard/./serialization2.xml

@@ -153,7 +153,7 @@ public class LoginFrame {
 							    + "Имя должно начинаться с буквы.");
 					} else {
 						buttonOk.setEnabled(false);
-						getButtonExit().setEnabled(false);
+						//getButtonExit().setEnabled(false);
 						progressBar.setVisible(true);
 						lblNewLabel.setVisible(true);
 						

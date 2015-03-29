@@ -1,0 +1,8 @@
+ru.messageBoard.controller
+ru.messageBoard.model
+ru.messageBoard.model.exception
+ru.messageBoard.model.io
+ru.messageBoard.model.util
+ru.messageBoard.run
+ru.messageBoard.test
+ru.messageBoard.view

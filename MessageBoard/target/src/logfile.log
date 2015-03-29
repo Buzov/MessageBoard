@@ -1,0 +1,11 @@
+2015-03-29 21:45:13 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Sun Mar 29 21:45:13 EEST 2015]; root of context hierarchy
+2015-03-29 21:45:13 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 21:45:14 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6276ae34: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 21:45:55 INFO  MessageBoardFrame:652 - Удален из таблицы: Артур 2015.03.29 09:45:47 продажа апрпрарарапрапр аппрапрапраапрапрапапрпа
+
+2015-03-29 21:46:22 INFO  MessageBoardFrame:652 - Удален из таблицы: Артур 2015.03.29 09:46:14 аренда Продам впвапвапвпв в вапвапв Тестовый текст вапвапавпвапввппавпвапввапв
+
+2015-03-29 21:46:24 INFO  MessageBoardFrame:788 - Сортировка по фамилии.
+2015-03-29 21:46:24 INFO  MessageBoardFrame:788 - Сортировка по фамилии.
+2015-03-29 21:46:30 INFO  MessageBoardFrame:792 - Сортировка по имени.
+2015-03-29 21:46:34 INFO  MessageBoardFrame:792 - Сортировка по имени.

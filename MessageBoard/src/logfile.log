@@ -1,0 +1,873 @@
+2015-03-25 09:11:15 INFO  BookFrame:89 - Приложение запустилось !
+2015-03-25 09:15:15 INFO  BookFrame:88 - Приложение запустилось !
+2015-03-25 09:50:43 INFO  BookFrame:88 - Приложение запустилось !
+2015-03-25 09:52:33 INFO  BookFrame:88 - Приложение запустилось !
+2015-03-25 10:38:53 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 10:39:54 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 10:42:19 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 11:25:00 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 11:25:24 INFO  MessageBoardFrame:336 - Удален из таблицы: null Wed Mar 25 11:25:14 EET 2015
+2015-03-25 11:25:24 INFO  MessageBoardFrame:336 - Удален из таблицы: null Wed Mar 25 11:25:23 EET 2015
+2015-03-25 11:25:52 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 11:26:16 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 12:56:48 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 13:14:05 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 14:42:04 INFO  MessageBoardFrame:93 - Приложение запустилось !
+2015-03-25 14:58:45 INFO  MessageBoardFrame:92 - Приложение запустилось !
+2015-03-25 15:01:10 INFO  MessageBoardFrame:86 - Приложение запустилось !
+2015-03-25 15:33:00 INFO  MessageBoardFrame:88 - Приложение запустилось !
+2015-03-25 15:33:00 INFO  MessageBoardFrame:88 - Приложение запустилось !
+2015-03-25 15:34:11 INFO  MessageBoardFrame:456 - Запрос информации о программе.
+2015-03-25 15:53:56 INFO  MessageBoardFrame:88 - Приложение запустилось !
+2015-03-25 19:19:50 INFO  MessageBoardFrame:88 - Приложение запустилось !
+2015-03-25 19:59:06 INFO  MessageBoardFrame:88 - Приложение запустилось !
+2015-03-25 20:33:03 INFO  MessageBoardFrame:94 - Приложение запустилось !
+2015-03-25 20:35:40 INFO  MessageBoardFrame:94 - Приложение запустилось !
+2015-03-25 20:40:31 INFO  MessageBoardFrame:94 - Приложение запустилось !
+2015-03-25 20:41:27 INFO  MessageBoardFrame:94 - Приложение запустилось !
+2015-03-25 20:42:19 INFO  MessageBoardFrame:363 - Удален из таблицы: Кирил Wed Mar 25 01:52:03 EET 2015
+2015-03-25 20:42:20 INFO  MessageBoardFrame:363 - Удален из таблицы: Дмитрий Wed Mar 25 01:52:03 EET 2015
+2015-03-25 20:51:24 INFO  MessageBoardFrame:94 - Приложение запустилось !
+2015-03-26 11:39:04 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 11:40:33 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 11:47:03 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 11:47:10 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:12 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:12 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:12 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:12 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:14 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:14 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:30 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 11:47:35 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:35 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:36 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:37 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:37 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:42 INFO  MessageBoardFrame:530 - Сортировка по имени.
+2015-03-26 11:47:44 INFO  MessageBoardFrame:530 - Сортировка по имени.
+2015-03-26 11:47:46 INFO  MessageBoardFrame:530 - Сортировка по имени.
+2015-03-26 11:47:46 INFO  MessageBoardFrame:530 - Сортировка по имени.
+2015-03-26 11:47:50 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:47:50 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 11:48:52 INFO  MessageBoardFrame:526 - Сортировка по фамилии.
+2015-03-26 12:01:10 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:01:30 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:01:41 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:01:51 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:02:03 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:02:14 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:02:25 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:03:02 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:03:06 INFO  MessageBoardFrame:527 - Сортировка по фамилии.
+2015-03-26 12:03:08 INFO  MessageBoardFrame:527 - Сортировка по фамилии.
+2015-03-26 12:03:10 INFO  MessageBoardFrame:527 - Сортировка по фамилии.
+2015-03-26 12:03:12 INFO  MessageBoardFrame:527 - Сортировка по фамилии.
+2015-03-26 12:24:28 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:24:39 INFO  MessageBoardFrame:527 - Сортировка по фамилии.
+2015-03-26 12:24:40 INFO  MessageBoardFrame:527 - Сортировка по фамилии.
+2015-03-26 12:24:40 INFO  MessageBoardFrame:527 - Сортировка по фамилии.
+2015-03-26 12:26:29 INFO  MessageBoardFrame:96 - Приложение запустилось !
+2015-03-26 12:33:27 INFO  MessageBoardFrame:532 - Сортировка по фамилии.
+2015-03-26 12:33:27 INFO  MessageBoardFrame:532 - Сортировка по фамилии.
+2015-03-26 12:33:27 INFO  MessageBoardFrame:532 - Сортировка по фамилии.
+2015-03-26 12:33:32 INFO  MessageBoardFrame:532 - Сортировка по фамилии.
+2015-03-26 12:33:32 INFO  MessageBoardFrame:532 - Сортировка по фамилии.
+2015-03-26 12:33:32 INFO  MessageBoardFrame:532 - Сортировка по фамилии.
+2015-03-26 12:41:56 INFO  MessageBoardFrame:383 - Удален из таблицы: Артур Wed Mar 25 01:52:03 EET 2015
+2015-03-26 12:42:03 INFO  MessageBoardFrame:383 - Удален из таблицы: Артур Wed Mar 25 01:52:03 EET 2015
+2015-03-26 12:42:37 INFO  MessageBoardFrame:321 - Сохранение базы в XML:./serialization.xml
+2015-03-26 12:44:16 INFO  MessageBoardFrame:321 - Сохранение базы в XML:./serialization.xml
+2015-03-26 12:44:27 INFO  MessageBoardFrame:337 - Сохранение базы в XML:/Users/artur/Documents/workspace_luna/MessageBoard/./serialization2.xml
+2015-03-26 20:27:38 INFO  MessageBoardFrame:538 - Сортировка по фамилии.
+2015-03-26 20:27:38 INFO  MessageBoardFrame:538 - Сортировка по фамилии.
+2015-03-26 20:27:38 INFO  MessageBoardFrame:538 - Сортировка по фамилии.
+2015-03-26 20:27:42 INFO  MessageBoardFrame:538 - Сортировка по фамилии.
+2015-03-26 21:42:48 INFO  MessageBoardFrame:536 - Сортировка по фамилии.
+2015-03-26 21:42:48 INFO  MessageBoardFrame:536 - Сортировка по фамилии.
+2015-03-26 21:42:48 INFO  MessageBoardFrame:536 - Сортировка по фамилии.
+2015-03-26 21:42:50 INFO  MessageBoardFrame:536 - Сортировка по фамилии.
+2015-03-26 21:42:50 INFO  MessageBoardFrame:536 - Сортировка по фамилии.
+2015-03-26 21:42:50 INFO  MessageBoardFrame:536 - Сортировка по фамилии.
+2015-03-26 21:59:49 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 21:59:51 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 21:59:53 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 21:59:54 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 21:59:58 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 21:59:59 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:01:59 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:01:59 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:02:00 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:02:01 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:02:01 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:02:02 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:02:02 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:02:04 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:04:43 INFO  MessageBoardFrame:102 - Приложение запустилось !
+2015-03-26 22:05:20 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:06:03 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:06:05 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:06:06 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:06:07 INFO  MessageBoardFrame:549 - Сортировка по фамилии.
+2015-03-26 22:12:58 INFO  MessageBoardFrame:541 - Сортировка по фамилии.
+2015-03-26 22:12:59 INFO  MessageBoardFrame:541 - Сортировка по фамилии.
+2015-03-26 22:13:07 INFO  MessageBoardFrame:541 - Сортировка по фамилии.
+2015-03-26 22:13:07 INFO  MessageBoardFrame:541 - Сортировка по фамилии.
+2015-03-26 22:13:07 INFO  MessageBoardFrame:541 - Сортировка по фамилии.
+2015-03-26 22:13:09 INFO  MessageBoardFrame:545 - Сортировка по имени.
+2015-03-26 22:13:10 INFO  MessageBoardFrame:545 - Сортировка по имени.
+2015-03-26 22:13:10 INFO  MessageBoardFrame:545 - Сортировка по имени.
+2015-03-26 22:13:10 INFO  MessageBoardFrame:545 - Сортировка по имени.
+2015-03-26 22:13:10 INFO  MessageBoardFrame:545 - Сортировка по имени.
+2015-03-26 22:26:08 INFO  MessageBoardFrame:101 - Приложение запустилось !
+2015-03-26 22:27:01 INFO  MessageBoardFrame:101 - Приложение запустилось !
+2015-03-26 22:27:18 INFO  MessageBoardFrame:540 - Сортировка по фамилии.
+2015-03-26 22:27:19 INFO  MessageBoardFrame:540 - Сортировка по фамилии.
+2015-03-26 22:27:20 INFO  MessageBoardFrame:540 - Сортировка по фамилии.
+2015-03-26 22:27:20 INFO  MessageBoardFrame:540 - Сортировка по фамилии.
+2015-03-26 22:27:25 INFO  MessageBoardFrame:544 - Сортировка по имени.
+2015-03-26 22:27:25 INFO  MessageBoardFrame:544 - Сортировка по имени.
+2015-03-26 22:27:27 INFO  MessageBoardFrame:544 - Сортировка по имени.
+2015-03-26 22:27:27 INFO  MessageBoardFrame:544 - Сортировка по имени.
+2015-03-26 23:08:52 INFO  MessageBoardFrame:101 - Приложение запустилось !
+2015-03-26 23:25:20 INFO  MessageBoardFrame:101 - Приложение запустилось !
+2015-03-26 23:43:32 INFO  MessageBoardFrame:102 - Приложение запустилось !
+2015-03-26 23:50:03 INFO  MessageBoardFrame:105 - Приложение запустилось !
+2015-03-26 23:50:24 INFO  MessageBoardFrame:105 - Приложение запустилось !
+2015-03-26 23:51:13 INFO  MessageBoardFrame:105 - Приложение запустилось !
+2015-03-26 23:52:53 INFO  MessageBoardFrame:105 - Приложение запустилось !
+2015-03-26 23:55:59 INFO  MessageBoardFrame:106 - Приложение запустилось !
+2015-03-27 00:12:16 INFO  MessageBoardFrame:107 - Приложение запустилось !
+2015-03-27 00:38:51 INFO  MessageBoardFrame:548 - Сортировка по фамилии.
+2015-03-27 00:38:52 INFO  MessageBoardFrame:548 - Сортировка по фамилии.
+2015-03-27 00:38:53 INFO  MessageBoardFrame:548 - Сортировка по фамилии.
+2015-03-27 00:38:53 INFO  MessageBoardFrame:548 - Сортировка по фамилии.
+2015-03-27 00:38:57 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:38:58 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:39:00 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:39:03 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:39:03 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:39:05 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:39:06 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:39:07 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:39:12 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 00:39:18 INFO  MessageBoardFrame:552 - Сортировка по имени.
+2015-03-27 01:19:10 INFO  MessageBoardFrame:548 - Сортировка по фамилии.
+2015-03-27 01:37:22 INFO  MessageBoardFrame:107 - Приложение запустилось !
+2015-03-27 02:12:45 INFO  MessageBoardFrame:338 - Сохранение базы в XML:./serialization.xml
+2015-03-27 02:14:32 INFO  MessageBoardFrame:338 - Сохранение базы в XML:./serialization.xml
+2015-03-27 02:14:35 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 02:14:37 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 02:15:04 INFO  MessageBoardFrame:557 - Сортировка по имени.
+2015-03-27 02:15:04 INFO  MessageBoardFrame:557 - Сортировка по имени.
+2015-03-27 02:15:04 INFO  MessageBoardFrame:557 - Сортировка по имени.
+2015-03-27 02:15:05 INFO  MessageBoardFrame:557 - Сортировка по имени.
+2015-03-27 02:15:05 INFO  MessageBoardFrame:557 - Сортировка по имени.
+2015-03-27 02:15:05 INFO  MessageBoardFrame:557 - Сортировка по имени.
+2015-03-27 02:15:12 INFO  MessageBoardFrame:557 - Сортировка по имени.
+2015-03-27 02:15:15 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 02:15:15 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 02:22:28 INFO  MessageBoardFrame:109 - Приложение запустилось !
+2015-03-27 02:25:56 INFO  MessageBoardFrame:338 - Сохранение базы в XML:./serialization.xml
+2015-03-27 10:56:15 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 10:56:18 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 11:06:02 INFO  MessageBoardFrame:401 - Удален из таблицы: Артур 2015-03-27 02-25-35
+2015-03-27 11:06:45 INFO  MessageBoardFrame:401 - Удален из таблицы: Артур 2015-03-27 02-25-35
+2015-03-27 11:06:46 INFO  MessageBoardFrame:401 - Удален из таблицы: Артур 2015-03-27 02-25-32
+2015-03-27 11:06:48 INFO  MessageBoardFrame:401 - Удален из таблицы: Артур 2015-03-26 09-42-32
+2015-03-27 11:06:49 INFO  MessageBoardFrame:401 - Удален из таблицы: Артур 2015-03-27 02-25-28
+2015-03-27 11:12:51 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 11:12:57 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 11:12:57 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 11:12:58 INFO  MessageBoardFrame:553 - Сортировка по фамилии.
+2015-03-27 11:13:04 INFO  MessageBoardFrame:401 - Удален из таблицы: Дмитрий 2015-03-26 09-42-32
+2015-03-27 11:15:45 INFO  MessageBoardFrame:400 - Удален из таблицы: Кирил 2015-03-26 09-42-32
+2015-03-27 11:21:48 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-26 09-42-32
+2015-03-27 11:21:49 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-27 02-25-28
+2015-03-27 11:21:54 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-27 02-25-35
+2015-03-27 11:21:55 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-27 02-25-32
+2015-03-27 11:28:01 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-26 09-42-32
+2015-03-27 11:28:06 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-27 02-25-28
+2015-03-27 11:33:28 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-27 02-25-35
+2015-03-27 11:33:29 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-27 02-25-32
+2015-03-27 11:33:35 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-26 09-42-32
+2015-03-27 11:37:05 INFO  MessageBoardFrame:109 - Приложение запустилось !
+2015-03-27 15:06:12 INFO  MessageBoardFrame:400 - Удален из таблицы: Артур 2015-03-27 03-04-45
+2015-03-27 15:24:08 INFO  MessageBoardFrame:109 - Приложение запустилось !
+2015-03-27 15:45:32 INFO  MessageBoardFrame:108 - Приложение запустилось !
+2015-03-27 17:08:44 INFO  MessageBoardFrame:436 - Удален из таблицы: Артур Fri Mar 27 16:24:36 EET 2015 Авто Куплю Тестовый текст
+
+2015-03-27 17:08:53 INFO  MessageBoardFrame:436 - Удален из таблицы: Артур Fri Mar 27 16:24:36 EET 2015 Вело Продам Тестовый текст
+
+2015-03-27 17:23:45 INFO  MessageBoardFrame:340 - Сохранение базы в XML:./serialization.xml
+2015-03-27 17:25:21 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:24:46 EET 2015 продажа  
+
+2015-03-27 17:25:38 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:24:12 EET 2015 продажа  
+
+2015-03-27 17:27:22 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:23:42 EET 2015 аренда Продам Тестовый текст
+
+2015-03-27 17:27:29 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:23:33 EET 2015 аренда Куплю Тестовый текст
+
+2015-03-27 17:28:35 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:28:27 EET 2015 продажа  
+
+2015-03-27 17:28:38 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:28:24 EET 2015 продажа  
+
+2015-03-27 17:28:41 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:28:20 EET 2015 продажа  
+
+2015-03-27 17:28:45 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:28:28 EET 2015 продажа  
+
+2015-03-27 17:28:47 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:28:22 EET 2015 продажа  
+
+2015-03-27 17:28:49 INFO  MessageBoardFrame:425 - Удален из таблицы: Артур Fri Mar 27 17:28:30 EET 2015 продажа  
+
+2015-03-27 17:29:43 INFO  MessageBoardFrame:537 - Запрос информации о программе.
+2015-03-27 17:30:11 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:12 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:12 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:13 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:13 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:13 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:14 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:16 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:19 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:22 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:22 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:22 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:22 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:22 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:22 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:22 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:22 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:23 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:23 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:26 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:26 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:28 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:28 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:29 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:30 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:53 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:54 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:56 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:56 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:57 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:30:58 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:31:00 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:31:00 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:31:02 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:31:03 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:35:39 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:35:44 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:35:44 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:35:44 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:35:44 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:35:44 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:35:45 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:35:52 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:36:03 INFO  MessageBoardFrame:570 - Сортировка по фамилии.
+2015-03-27 17:36:09 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:09 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:10 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:11 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:11 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:12 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:12 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:12 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:14 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:36:20 INFO  MessageBoardFrame:574 - Сортировка по имени.
+2015-03-27 17:39:17 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:18 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:21 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:22 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:23 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:23 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:23 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:24 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:24 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:39:24 INFO  MessageBoardFrame:575 - Сортировка по фамилии.
+2015-03-27 17:41:35 INFO  MessageBoardFrame:577 - Сортировка по фамилии.
+2015-03-27 17:41:36 INFO  MessageBoardFrame:577 - Сортировка по фамилии.
+2015-03-27 17:41:41 INFO  MessageBoardFrame:577 - Сортировка по фамилии.
+2015-03-27 17:41:41 INFO  MessageBoardFrame:577 - Сортировка по фамилии.
+2015-03-27 17:41:42 INFO  MessageBoardFrame:577 - Сортировка по фамилии.
+2015-03-27 17:41:42 INFO  MessageBoardFrame:577 - Сортировка по фамилии.
+2015-03-27 17:41:42 INFO  MessageBoardFrame:577 - Сортировка по фамилии.
+2015-03-27 17:41:42 INFO  MessageBoardFrame:577 - Сортировка по фамилии.
+2015-03-27 17:42:34 INFO  MessageBoardFrame:578 - Сортировка по фамилии.
+2015-03-27 17:42:34 INFO  MessageBoardFrame:578 - Сортировка по фамилии.
+2015-03-27 17:42:37 INFO  MessageBoardFrame:578 - Сортировка по фамилии.
+2015-03-27 17:42:38 INFO  MessageBoardFrame:578 - Сортировка по фамилии.
+2015-03-27 17:43:39 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:39 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:42 INFO  MessageBoardFrame:432 - Удален из таблицы: Артур Fri Mar 27 17:23:33 EET 2015 аренда Куплю Тестовый текст
+
+2015-03-27 17:43:43 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:43 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:49 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:50 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:52 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:52 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:53 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:53 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:54 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:54 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:54 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:54 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:55 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:55 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 17:43:59 INFO  MessageBoardFrame:583 - Сортировка по имени.
+2015-03-27 17:44:00 INFO  MessageBoardFrame:583 - Сортировка по имени.
+2015-03-27 17:44:00 INFO  MessageBoardFrame:583 - Сортировка по имени.
+2015-03-27 19:06:09 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 19:06:36 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-27 22:03:14 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:31 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:31 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:32 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:37 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:39 INFO  MessageBoardFrame:432 - Удален из таблицы: Артур Fri Mar 27 22:03:30 EET 2015 продажа Куплю Тестовый текст
+
+2015-03-27 22:03:41 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:48 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:49 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:58 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-27 22:03:59 INFO  MessageBoardFrame:580 - Сортировка по фамилии.
+2015-03-28 15:18:22 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2f514e52: startup date [Sat Mar 28 15:18:22 EET 2015]; root of context hierarchy
+2015-03-28 15:18:22 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [src/main/java/bean.xml]
+2015-03-28 15:29:14 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2ed01c3: startup date [Sat Mar 28 15:29:14 EET 2015]; root of context hierarchy
+2015-03-28 15:29:14 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [src/main/java/bean.xml]
+2015-03-28 15:30:07 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@160eaab5: startup date [Sat Mar 28 15:30:07 EET 2015]; root of context hierarchy
+2015-03-28 15:30:07 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 15:30:09 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@48150bbc: defining beans [print]; root of factory hierarchy
+2015-03-28 15:30:09 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@48150bbc: defining beans [print]; root of factory hierarchy
+2015-03-28 15:32:02 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2f514e52: startup date [Sat Mar 28 15:32:02 EET 2015]; root of context hierarchy
+2015-03-28 15:32:02 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 15:32:04 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5f0900d2: defining beans [print]; root of factory hierarchy
+2015-03-28 15:32:18 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b8d77fe: startup date [Sat Mar 28 15:32:18 EET 2015]; root of context hierarchy
+2015-03-28 15:32:18 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 15:32:19 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@161f7057: defining beans [print]; root of factory hierarchy
+2015-03-28 15:33:53 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6aed0f19: startup date [Sat Mar 28 15:33:53 EET 2015]; root of context hierarchy
+2015-03-28 15:33:53 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 15:33:55 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5adfb9cd: defining beans [print]; root of factory hierarchy
+2015-03-28 16:07:56 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64c0d2d3: startup date [Sat Mar 28 16:07:56 EET 2015]; root of context hierarchy
+2015-03-28 16:07:56 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:07:58 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5f0900d2: defining beans [print]; root of factory hierarchy
+2015-03-28 16:08:10 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64c0d2d3: startup date [Sat Mar 28 16:08:10 EET 2015]; root of context hierarchy
+2015-03-28 16:08:10 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:08:11 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6a086b19: defining beans [print]; root of factory hierarchy
+2015-03-28 16:08:56 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64c0d2d3: startup date [Sat Mar 28 16:08:56 EET 2015]; root of context hierarchy
+2015-03-28 16:08:56 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:08:57 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4eaf6cb1: defining beans [print]; root of factory hierarchy
+2015-03-28 16:09:09 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@717a6926: startup date [Sat Mar 28 16:09:09 EET 2015]; root of context hierarchy
+2015-03-28 16:09:09 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:09:10 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5adfb9cd: defining beans [print]; root of factory hierarchy
+2015-03-28 16:10:13 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@160eaab5: startup date [Sat Mar 28 16:10:13 EET 2015]; root of context hierarchy
+2015-03-28 16:10:13 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:10:14 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@48150bbc: defining beans [print]; root of factory hierarchy
+2015-03-28 16:34:11 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ce95c63: startup date [Sat Mar 28 16:34:11 EET 2015]; root of context hierarchy
+2015-03-28 16:34:12 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:34:13 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1a665fb2: defining beans [print]; root of factory hierarchy
+2015-03-28 16:34:44 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2f514e52: startup date [Sat Mar 28 16:34:44 EET 2015]; root of context hierarchy
+2015-03-28 16:34:44 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:34:47 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@54fc3ac5: defining beans [print]; root of factory hierarchy
+2015-03-28 16:35:10 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b8d77fe: startup date [Sat Mar 28 16:35:10 EET 2015]; root of context hierarchy
+2015-03-28 16:35:10 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:35:11 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@57947a96: defining beans [print]; root of factory hierarchy
+2015-03-28 16:35:30 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2f514e52: startup date [Sat Mar 28 16:35:30 EET 2015]; root of context hierarchy
+2015-03-28 16:35:30 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:35:31 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@54fc3ac5: defining beans [print]; root of factory hierarchy
+2015-03-28 16:38:01 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@717a6926: startup date [Sat Mar 28 16:38:01 EET 2015]; root of context hierarchy
+2015-03-28 16:38:01 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 16:38:02 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@391be9d4: defining beans [print]; root of factory hierarchy
+2015-03-28 18:03:52 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5c576b3d: startup date [Sat Mar 28 18:03:52 EET 2015]; root of context hierarchy
+2015-03-28 18:03:52 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 18:03:54 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3de8754c: defining beans [print]; root of factory hierarchy
+2015-03-28 18:04:15 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-28 18:04:15 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-28 18:04:19 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-28 18:04:20 INFO  MessageBoardFrame:579 - Сортировка по фамилии.
+2015-03-28 18:04:55 INFO  MessageBoardFrame:546 - Запрос информации о программе.
+2015-03-28 18:05:13 INFO  MessageBoardFrame:546 - Запрос информации о программе.
+2015-03-28 18:20:22 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5cb74f11: startup date [Sat Mar 28 18:20:22 EET 2015]; root of context hierarchy
+2015-03-28 18:20:22 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 18:20:23 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@621a8a7a: defining beans [print]; root of factory hierarchy
+2015-03-28 18:46:41 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@70fccc53: startup date [Sat Mar 28 18:46:41 EET 2015]; root of context hierarchy
+2015-03-28 18:46:41 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 18:46:57 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@295ececc: defining beans [print]; root of factory hierarchy
+2015-03-28 18:51:38 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6adaf50c: startup date [Sat Mar 28 18:51:38 EET 2015]; root of context hierarchy
+2015-03-28 18:51:38 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 18:51:42 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@21ab613c: defining beans [print]; root of factory hierarchy
+2015-03-28 18:51:45 INFO  MessageBoardFrame:573 - Запрос информации о программе.
+2015-03-28 19:07:13 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@79194cf5: startup date [Sat Mar 28 19:07:13 EET 2015]; root of context hierarchy
+2015-03-28 19:07:13 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:07:14 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@40023bc4: defining beans [print]; root of factory hierarchy
+2015-03-28 19:12:53 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@17e3c793: startup date [Sat Mar 28 19:12:53 EET 2015]; root of context hierarchy
+2015-03-28 19:12:53 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:12:54 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@734de8d3: defining beans [print]; root of factory hierarchy
+2015-03-28 19:17:08 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6d9c1fce: startup date [Sat Mar 28 19:17:08 EET 2015]; root of context hierarchy
+2015-03-28 19:17:08 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:17:10 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3cd0db94: defining beans [print]; root of factory hierarchy
+2015-03-28 19:26:14 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@60912e6a: startup date [Sat Mar 28 19:26:14 EET 2015]; root of context hierarchy
+2015-03-28 19:26:15 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:26:20 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@a8b7b53: defining beans [print]; root of factory hierarchy
+2015-03-28 19:26:42 INFO  MessageBoardFrame:579 - Запрос информации о программе.
+2015-03-28 19:27:34 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5c576b3d: startup date [Sat Mar 28 19:27:34 EET 2015]; root of context hierarchy
+2015-03-28 19:27:34 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:27:38 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@23823385: defining beans [print]; root of factory hierarchy
+2015-03-28 19:27:54 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@52cf357a: startup date [Sat Mar 28 19:27:54 EET 2015]; root of context hierarchy
+2015-03-28 19:27:54 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:28:00 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3ee82600: defining beans [print]; root of factory hierarchy
+2015-03-28 19:29:43 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@623bf486: startup date [Sat Mar 28 19:29:43 EET 2015]; root of context hierarchy
+2015-03-28 19:29:43 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:29:45 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7c8b74b0: defining beans [print]; root of factory hierarchy
+2015-03-28 19:36:19 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5afa8450: startup date [Sat Mar 28 19:36:18 EET 2015]; root of context hierarchy
+2015-03-28 19:36:19 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:36:20 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5759a3d4: defining beans [print]; root of factory hierarchy
+2015-03-28 19:36:20 INFO  MessageBoardFrame:136 - Приложение запустилось !
+2015-03-28 19:36:39 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4c812efc: startup date [Sat Mar 28 19:36:39 EET 2015]; root of context hierarchy
+2015-03-28 19:36:39 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:36:40 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5759a3d4: defining beans [print]; root of factory hierarchy
+2015-03-28 19:36:40 INFO  MessageBoardFrame:136 - Приложение запустилось !
+2015-03-28 19:36:41 INFO  MessageBoardFrame:422 - Выход из программы!
+2015-03-28 19:37:47 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@197a7f9: startup date [Sat Mar 28 19:37:47 EET 2015]; root of context hierarchy
+2015-03-28 19:37:48 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:37:49 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@49bf4a3c: defining beans [print]; root of factory hierarchy
+2015-03-28 19:37:49 INFO  MessageBoardFrame:136 - Приложение запустилось !
+2015-03-28 19:37:53 INFO  MessageBoardFrame:579 - Запрос информации о программе.
+2015-03-28 19:37:59 INFO  MessageBoardFrame:579 - Запрос информации о программе.
+2015-03-28 19:38:03 INFO  MessageBoardFrame:579 - Запрос информации о программе.
+2015-03-28 19:38:06 INFO  MessageBoardFrame:579 - Запрос информации о программе.
+2015-03-28 19:38:09 INFO  MessageBoardFrame:579 - Запрос информации о программе.
+2015-03-28 19:44:06 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@342c5b4e: startup date [Sat Mar 28 19:44:06 EET 2015]; root of context hierarchy
+2015-03-28 19:44:06 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 19:44:08 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@48a92d70: defining beans [print]; root of factory hierarchy
+2015-03-28 20:42:15 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4e730222: startup date [Sat Mar 28 20:42:15 EET 2015]; root of context hierarchy
+2015-03-28 20:42:15 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 20:42:16 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@238ee871: defining beans [print]; root of factory hierarchy
+2015-03-28 20:45:29 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@73e24a8f: startup date [Sat Mar 28 20:45:29 EET 2015]; root of context hierarchy
+2015-03-28 20:45:30 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 20:45:31 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@686cf054: defining beans [print]; root of factory hierarchy
+2015-03-28 20:52:20 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@49bee849: startup date [Sat Mar 28 20:52:20 EET 2015]; root of context hierarchy
+2015-03-28 20:52:20 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 20:52:23 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1420b939: defining beans [print]; root of factory hierarchy
+2015-03-28 20:53:17 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5b69dbd3: startup date [Sat Mar 28 20:53:17 EET 2015]; root of context hierarchy
+2015-03-28 20:53:17 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 20:53:21 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4ad9da94: defining beans [print]; root of factory hierarchy
+2015-03-28 20:56:19 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@78192b23: startup date [Sat Mar 28 20:56:19 EET 2015]; root of context hierarchy
+2015-03-28 20:56:20 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 20:56:22 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@26947958: defining beans [print]; root of factory hierarchy
+2015-03-28 21:01:11 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@602d465a: startup date [Sat Mar 28 21:01:11 EET 2015]; root of context hierarchy
+2015-03-28 21:01:11 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 21:01:13 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@65ce70c5: defining beans [print]; root of factory hierarchy
+2015-03-28 21:02:35 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1f45ba0c: startup date [Sat Mar 28 21:02:35 EET 2015]; root of context hierarchy
+2015-03-28 21:02:35 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 21:02:37 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7822ef1f: defining beans [print]; root of factory hierarchy
+2015-03-28 21:06:41 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4f1a4fad: startup date [Sat Mar 28 21:06:41 EET 2015]; root of context hierarchy
+2015-03-28 21:06:41 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 21:06:45 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@50f4f640: defining beans [print]; root of factory hierarchy
+2015-03-28 21:18:29 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63eea083: startup date [Sat Mar 28 21:18:29 EET 2015]; root of context hierarchy
+2015-03-28 21:18:29 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 21:18:31 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@50c3d0fe: defining beans [print]; root of factory hierarchy
+2015-03-28 21:18:37 INFO  MessageBoardFrame:612 - Сортировка по фамилии.
+2015-03-28 21:18:39 INFO  MessageBoardFrame:612 - Сортировка по фамилии.
+2015-03-28 21:18:49 INFO  MessageBoardFrame:612 - Сортировка по фамилии.
+2015-03-28 21:18:49 INFO  MessageBoardFrame:612 - Сортировка по фамилии.
+2015-03-28 21:18:51 INFO  MessageBoardFrame:612 - Сортировка по фамилии.
+2015-03-28 21:18:58 INFO  MessageBoardFrame:612 - Сортировка по фамилии.
+2015-03-28 21:19:02 INFO  MessageBoardFrame:478 - Удален из таблицы: Артур 2015.03.28 09:18:57 продажа ыввавыа ывавыавыаываыавы
+
+2015-03-28 21:19:08 INFO  MessageBoardFrame:478 - Удален из таблицы: Артур 2015.03.27 05:23:33 аренда Куплю Тестовый текст
+
+2015-03-28 21:19:34 INFO  MessageBoardFrame:616 - Сортировка по имени.
+2015-03-28 21:19:36 INFO  MessageBoardFrame:616 - Сортировка по имени.
+2015-03-28 21:22:50 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58c18933: startup date [Sat Mar 28 21:22:50 EET 2015]; root of context hierarchy
+2015-03-28 21:22:50 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 21:22:55 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6d4f0202: defining beans [print]; root of factory hierarchy
+2015-03-28 22:42:22 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3b46305: startup date [Sat Mar 28 22:42:22 EET 2015]; root of context hierarchy
+2015-03-28 22:42:22 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 22:42:26 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@354d0f56: defining beans [print]; root of factory hierarchy
+2015-03-28 22:45:11 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@56cb88c8: startup date [Sat Mar 28 22:45:11 EET 2015]; root of context hierarchy
+2015-03-28 22:45:11 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 22:45:12 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5f4c1615: defining beans [print]; root of factory hierarchy
+2015-03-28 22:45:12 INFO  MessageBoardFrame:137 - Приложение запустилось !
+2015-03-28 22:45:25 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6007a2f0: startup date [Sat Mar 28 22:45:25 EET 2015]; root of context hierarchy
+2015-03-28 22:45:25 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 22:45:35 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2af5e863: defining beans [print]; root of factory hierarchy
+2015-03-28 22:58:14 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7e374aac: startup date [Sat Mar 28 22:58:14 EET 2015]; root of context hierarchy
+2015-03-28 22:58:14 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 22:58:15 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@62a2e55d: defining beans [print]; root of factory hierarchy
+2015-03-28 23:33:30 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4111b923: startup date [Sat Mar 28 23:33:30 EET 2015]; root of context hierarchy
+2015-03-28 23:33:30 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:33:32 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@440eca83: defining beans [print]; root of factory hierarchy
+2015-03-28 23:34:59 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13ccd156: startup date [Sat Mar 28 23:34:59 EET 2015]; root of context hierarchy
+2015-03-28 23:34:59 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:35:01 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5717f2d6: defining beans [print]; root of factory hierarchy
+2015-03-28 23:35:01 INFO  MessageBoardFrame:177 - Приложение запустилось !
+2015-03-28 23:35:13 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@587ccaee: startup date [Sat Mar 28 23:35:13 EET 2015]; root of context hierarchy
+2015-03-28 23:35:14 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:35:15 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@384ab8c7: defining beans [print]; root of factory hierarchy
+2015-03-28 23:36:51 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a99f83d: startup date [Sat Mar 28 23:36:51 EET 2015]; root of context hierarchy
+2015-03-28 23:36:51 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:36:52 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@16442115: defining beans [print]; root of factory hierarchy
+2015-03-28 23:37:16 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@43413f6c: startup date [Sat Mar 28 23:37:16 EET 2015]; root of context hierarchy
+2015-03-28 23:37:17 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:37:18 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@384ab8c7: defining beans [print]; root of factory hierarchy
+2015-03-28 23:37:41 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4527520: startup date [Sat Mar 28 23:37:41 EET 2015]; root of context hierarchy
+2015-03-28 23:37:41 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:37:42 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3444d839: defining beans [print]; root of factory hierarchy
+2015-03-28 23:39:31 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@39ad96d5: startup date [Sat Mar 28 23:39:31 EET 2015]; root of context hierarchy
+2015-03-28 23:39:31 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:39:32 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@52d7f51e: defining beans [print]; root of factory hierarchy
+2015-03-28 23:40:21 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67010def: startup date [Sat Mar 28 23:40:20 EET 2015]; root of context hierarchy
+2015-03-28 23:40:21 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:40:22 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@52d7f51e: defining beans [print]; root of factory hierarchy
+2015-03-28 23:41:34 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@72787a6f: startup date [Sat Mar 28 23:41:34 EET 2015]; root of context hierarchy
+2015-03-28 23:41:34 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:41:36 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@8c9c6e4: defining beans [print]; root of factory hierarchy
+2015-03-28 23:47:19 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5c7b1ff8: startup date [Sat Mar 28 23:47:19 EET 2015]; root of context hierarchy
+2015-03-28 23:47:19 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:47:21 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3238584c: defining beans [print]; root of factory hierarchy
+2015-03-28 23:49:03 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@74a50417: startup date [Sat Mar 28 23:49:03 EET 2015]; root of context hierarchy
+2015-03-28 23:49:04 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:49:05 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@341fae71: defining beans [print]; root of factory hierarchy
+2015-03-28 23:50:08 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6353ebbd: startup date [Sat Mar 28 23:50:08 EET 2015]; root of context hierarchy
+2015-03-28 23:50:09 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:50:10 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7720a73d: defining beans [print]; root of factory hierarchy
+2015-03-28 23:51:53 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@e3b7c27: startup date [Sat Mar 28 23:51:53 EET 2015]; root of context hierarchy
+2015-03-28 23:51:53 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:51:55 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@581ca586: defining beans [print]; root of factory hierarchy
+2015-03-28 23:53:45 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@514659e6: startup date [Sat Mar 28 23:53:45 EET 2015]; root of context hierarchy
+2015-03-28 23:53:45 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:53:46 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@13cfa0fe: defining beans [print]; root of factory hierarchy
+2015-03-28 23:58:23 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@76a2348b: startup date [Sat Mar 28 23:58:23 EET 2015]; root of context hierarchy
+2015-03-28 23:58:23 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-28 23:58:25 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3cbe13f6: defining beans [print]; root of factory hierarchy
+2015-03-28 23:58:25 INFO  MessageBoardFrame:177 - Приложение запустилось !
+2015-03-29 00:00:14 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@76a2348b: startup date [Sun Mar 29 00:00:14 EET 2015]; root of context hierarchy
+2015-03-29 00:00:14 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:00:17 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3cbe13f6: defining beans [print]; root of factory hierarchy
+2015-03-29 00:00:17 INFO  MessageBoardFrame:177 - Приложение запустилось !
+2015-03-29 00:03:32 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7131626e: startup date [Sun Mar 29 00:03:32 EET 2015]; root of context hierarchy
+2015-03-29 00:03:32 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:03:33 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@333815e0: defining beans [print]; root of factory hierarchy
+2015-03-29 00:03:33 INFO  MessageBoardFrame:177 - Приложение запустилось !
+2015-03-29 00:08:59 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5232285b: startup date [Sun Mar 29 00:08:59 EET 2015]; root of context hierarchy
+2015-03-29 00:08:59 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:09:05 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@27243f65: defining beans [print]; root of factory hierarchy
+2015-03-29 00:09:05 INFO  MessageBoardFrame:173 - Приложение запустилось !
+2015-03-29 00:10:04 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@fb4871b: startup date [Sun Mar 29 00:10:04 EET 2015]; root of context hierarchy
+2015-03-29 00:10:04 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:10:35 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@151205ab: startup date [Sun Mar 29 00:10:35 EET 2015]; root of context hierarchy
+2015-03-29 00:10:35 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:10:46 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@27243f65: defining beans [print]; root of factory hierarchy
+2015-03-29 00:10:46 INFO  MessageBoardFrame:173 - Приложение запустилось !
+2015-03-29 00:11:17 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5232285b: startup date [Sun Mar 29 00:11:17 EET 2015]; root of context hierarchy
+2015-03-29 00:11:17 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:11:23 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@27243f65: defining beans [print]; root of factory hierarchy
+2015-03-29 00:11:23 INFO  MessageBoardFrame:173 - Приложение запустилось !
+2015-03-29 00:13:55 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@353e726b: startup date [Sun Mar 29 00:13:55 EET 2015]; root of context hierarchy
+2015-03-29 00:13:55 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:13:56 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3cbe13f6: defining beans [print]; root of factory hierarchy
+2015-03-29 00:13:56 INFO  MessageBoardFrame:174 - Приложение запустилось !
+2015-03-29 00:14:16 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@151205ab: startup date [Sun Mar 29 00:14:16 EET 2015]; root of context hierarchy
+2015-03-29 00:14:16 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:14:17 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7dfadadc: defining beans [print]; root of factory hierarchy
+2015-03-29 00:14:17 INFO  MessageBoardFrame:174 - Приложение запустилось !
+2015-03-29 00:15:38 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@29871db1: startup date [Sun Mar 29 00:15:38 EET 2015]; root of context hierarchy
+2015-03-29 00:15:38 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:15:39 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6547ec45: defining beans [print]; root of factory hierarchy
+2015-03-29 00:15:40 INFO  MessageBoardFrame:174 - Приложение запустилось !
+2015-03-29 00:17:34 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@fb4871b: startup date [Sun Mar 29 00:17:34 EET 2015]; root of context hierarchy
+2015-03-29 00:17:34 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:17:36 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6036e221: defining beans [print]; root of factory hierarchy
+2015-03-29 00:17:36 INFO  MessageBoardFrame:174 - Приложение запустилось !
+2015-03-29 00:35:41 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Sun Mar 29 00:35:41 EET 2015]; root of context hierarchy
+2015-03-29 00:35:41 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:35:43 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@191c2c15: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:35:43 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@191c2c15: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:36:13 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Sun Mar 29 00:36:13 EET 2015]; root of context hierarchy
+2015-03-29 00:36:13 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:36:14 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@191c2c15: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:36:14 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@191c2c15: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:37:45 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Sun Mar 29 00:37:45 EET 2015]; root of context hierarchy
+2015-03-29 00:37:45 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:37:46 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@41f66bc0: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:37:46 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@41f66bc0: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:38:33 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@536922b: startup date [Sun Mar 29 00:38:33 EET 2015]; root of context hierarchy
+2015-03-29 00:38:33 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:38:34 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1e7a9a19: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:38:34 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1e7a9a19: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:40:52 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5c9f4521: startup date [Sun Mar 29 00:40:52 EET 2015]; root of context hierarchy
+2015-03-29 00:40:52 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:40:54 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@34806f42: defining beans [print]; root of factory hierarchy
+2015-03-29 00:46:30 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Sun Mar 29 00:46:29 EET 2015]; root of context hierarchy
+2015-03-29 00:46:30 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:46:32 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:46:32 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6752c50: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:50:53 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Sun Mar 29 00:50:53 EET 2015]; root of context hierarchy
+2015-03-29 00:50:53 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:50:54 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:50:56 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@30a1ddbb: startup date [Sun Mar 29 00:50:56 EET 2015]; root of context hierarchy
+2015-03-29 00:50:56 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:50:57 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@9553a0b: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:50:57 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@9553a0b: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:50:57 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:52:51 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 00:52:51 EET 2015]; root of context hierarchy
+2015-03-29 00:52:51 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:52:54 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@191c2c15: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:53:02 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a69c3fb: startup date [Sun Mar 29 00:53:02 EET 2015]; root of context hierarchy
+2015-03-29 00:53:02 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:53:05 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@23c2eab3: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:56:28 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4b3d0493: startup date [Sun Mar 29 00:56:28 EET 2015]; root of context hierarchy
+2015-03-29 00:56:28 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:56:36 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@357506de: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:56:37 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@754a6706: startup date [Sun Mar 29 00:56:37 EET 2015]; root of context hierarchy
+2015-03-29 00:56:37 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 00:56:42 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@72a272b0: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:56:42 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@72a272b0: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 00:56:42 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@357506de: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:11 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4b3d0493: startup date [Sun Mar 29 01:00:11 EET 2015]; root of context hierarchy
+2015-03-29 01:00:12 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:00:13 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@755555d0: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:14 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@19c6e02a: startup date [Sun Mar 29 01:00:14 EET 2015]; root of context hierarchy
+2015-03-29 01:00:14 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:00:15 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@78584ec1: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:15 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@78584ec1: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:15 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@755555d0: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:27 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38556da3: startup date [Sun Mar 29 01:00:27 EET 2015]; root of context hierarchy
+2015-03-29 01:00:27 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:00:29 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@75371ddd: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:30 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@615d5dd: startup date [Sun Mar 29 01:00:30 EET 2015]; root of context hierarchy
+2015-03-29 01:00:30 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:00:31 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7d32fad5: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:31 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7d32fad5: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:31 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@75371ddd: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:41 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11a2ac44: startup date [Sun Mar 29 01:00:41 EET 2015]; root of context hierarchy
+2015-03-29 01:00:41 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:00:42 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c7ba30c: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:43 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38ba34a: startup date [Sun Mar 29 01:00:43 EET 2015]; root of context hierarchy
+2015-03-29 01:00:43 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:00:44 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7d32fad5: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:44 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7d32fad5: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:44 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c7ba30c: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:00:52 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11a2ac44: startup date [Sun Mar 29 01:00:52 EET 2015]; root of context hierarchy
+2015-03-29 01:00:53 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:00:54 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@325dcdf1: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:01:07 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@70910539: startup date [Sun Mar 29 01:01:07 EET 2015]; root of context hierarchy
+2015-03-29 01:01:07 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:01:09 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7589d449: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:01:28 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@50295b9a: startup date [Sun Mar 29 01:01:28 EET 2015]; root of context hierarchy
+2015-03-29 01:01:28 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:01:29 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2bd040e8: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:03:32 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@40ee1aeb: startup date [Sun Mar 29 01:03:32 EET 2015]; root of context hierarchy
+2015-03-29 01:03:32 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:03:33 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7589d449: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:03:38 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@28ef1ce5: startup date [Sun Mar 29 01:03:38 EET 2015]; root of context hierarchy
+2015-03-29 01:03:38 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:03:39 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@e46e674: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:04:10 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@70910539: startup date [Sun Mar 29 01:04:10 EET 2015]; root of context hierarchy
+2015-03-29 01:04:10 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:04:11 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@75371ddd: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:04:17 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@405949de: startup date [Sun Mar 29 01:04:17 EET 2015]; root of context hierarchy
+2015-03-29 01:04:17 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:04:18 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@67866c25: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:04:27 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4b3d0493: startup date [Sun Mar 29 01:04:27 EET 2015]; root of context hierarchy
+2015-03-29 01:04:27 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:04:28 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@755555d0: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:04:41 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3a37f44d: startup date [Sun Mar 29 01:04:41 EET 2015]; root of context hierarchy
+2015-03-29 01:04:41 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:05:09 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@50295b9a: startup date [Sun Mar 29 01:05:09 EET 2015]; root of context hierarchy
+2015-03-29 01:05:09 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:05:11 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2bd040e8: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:05:15 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@51b267b7: startup date [Sun Mar 29 01:05:15 EET 2015]; root of context hierarchy
+2015-03-29 01:05:15 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:05:16 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@53f7eb48: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:09:17 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@50295b9a: startup date [Sun Mar 29 01:09:17 EET 2015]; root of context hierarchy
+2015-03-29 01:09:17 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:09:19 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@65297549: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:09:19 INFO  DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@65297549: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:11:08 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4b3d0493: startup date [Sun Mar 29 01:11:08 EET 2015]; root of context hierarchy
+2015-03-29 01:11:08 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:11:10 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4d33f82: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:11:14 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@30c32102: startup date [Sun Mar 29 01:11:14 EET 2015]; root of context hierarchy
+2015-03-29 01:11:14 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:11:15 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@45761f9: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:39:01 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3442299e: startup date [Sun Mar 29 01:39:01 EET 2015]; root of context hierarchy
+2015-03-29 01:39:01 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:39:47 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@70910539: startup date [Sun Mar 29 01:39:47 EET 2015]; root of context hierarchy
+2015-03-29 01:39:47 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:39:48 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:39:54 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@35b102dd: startup date [Sun Mar 29 01:39:54 EET 2015]; root of context hierarchy
+2015-03-29 01:39:54 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:39:55 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7d951e37: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:41:19 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@50295b9a: startup date [Sun Mar 29 01:41:19 EET 2015]; root of context hierarchy
+2015-03-29 01:41:19 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:41:20 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@65297549: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:41:25 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fc0b72b: startup date [Sun Mar 29 01:41:25 EET 2015]; root of context hierarchy
+2015-03-29 01:41:25 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:41:26 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1c76b9d0: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:42:30 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4b3d0493: startup date [Sun Mar 29 01:42:30 EET 2015]; root of context hierarchy
+2015-03-29 01:42:30 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:42:31 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4d33f82: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:42:36 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6d25eb3: startup date [Sun Mar 29 01:42:36 EET 2015]; root of context hierarchy
+2015-03-29 01:42:36 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:42:37 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1261db2b: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:45:40 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ffdc730: startup date [Sun Mar 29 01:45:40 EET 2015]; root of context hierarchy
+2015-03-29 01:45:40 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:45:41 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7b9f5ad1: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:45:41 INFO  MessageBoardFrame:190 - Приложение запустилось !
+2015-03-29 01:46:05 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@15a0c58a: startup date [Sun Mar 29 01:46:05 EET 2015]; root of context hierarchy
+2015-03-29 01:46:05 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:46:06 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@58a2314d: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:46:06 INFO  MessageBoardFrame:190 - Приложение запустилось !
+2015-03-29 01:46:20 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@15a0c58a: startup date [Sun Mar 29 01:46:20 EET 2015]; root of context hierarchy
+2015-03-29 01:46:20 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:46:21 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@52e3b1: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:46:21 INFO  MessageBoardFrame:190 - Приложение запустилось !
+2015-03-29 01:46:30 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@50c02180: startup date [Sun Mar 29 01:46:30 EET 2015]; root of context hierarchy
+2015-03-29 01:46:30 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:46:31 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1b7f955b: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:46:32 INFO  MessageBoardFrame:190 - Приложение запустилось !
+2015-03-29 01:46:41 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@d4f865b: startup date [Sun Mar 29 01:46:41 EET 2015]; root of context hierarchy
+2015-03-29 01:46:41 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:46:42 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@41e279a1: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:46:42 INFO  MessageBoardFrame:190 - Приложение запустилось !
+2015-03-29 01:46:57 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6e08f21d: startup date [Sun Mar 29 01:46:57 EET 2015]; root of context hierarchy
+2015-03-29 01:46:57 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:46:58 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@41e279a1: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:46:59 INFO  MessageBoardFrame:190 - Приложение запустилось !
+2015-03-29 01:47:52 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@d4f865b: startup date [Sun Mar 29 01:47:52 EET 2015]; root of context hierarchy
+2015-03-29 01:47:52 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:47:53 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7b9f5ad1: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:47:53 INFO  MessageBoardFrame:190 - Приложение запустилось !
+2015-03-29 01:48:12 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75d783ea: startup date [Sun Mar 29 01:48:12 EET 2015]; root of context hierarchy
+2015-03-29 01:48:12 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 01:48:13 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@55269777: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 01:48:13 INFO  MessageBoardFrame:190 - Приложение запустилось !
+2015-03-29 13:13:21 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f7757c: startup date [Sun Mar 29 13:13:21 EEST 2015]; root of context hierarchy
+2015-03-29 13:13:21 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 13:13:22 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1e90b8b9: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 13:13:28 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4c0dfaf6: startup date [Sun Mar 29 13:13:28 EEST 2015]; root of context hierarchy
+2015-03-29 13:13:28 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 13:13:29 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5c1a81c: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 13:26:35 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@275997e4: startup date [Sun Mar 29 13:26:35 EEST 2015]; root of context hierarchy
+2015-03-29 13:26:35 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 13:26:57 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4eeed1b8: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 13:28:00 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1586b489: startup date [Sun Mar 29 13:28:00 EEST 2015]; root of context hierarchy
+2015-03-29 13:28:00 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 13:28:15 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4eeed1b8: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 13:28:24 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6b030dea: startup date [Sun Mar 29 13:28:24 EEST 2015]; root of context hierarchy
+2015-03-29 13:28:24 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 13:28:31 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@210aaf84: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 13:29:08 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6b030dea: startup date [Sun Mar 29 13:29:08 EEST 2015]; root of context hierarchy
+2015-03-29 13:29:08 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 13:29:20 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4eeed1b8: defining beans [print,mainFrame]; root of factory hierarchy
+2015-03-29 15:02:29 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Sun Mar 29 15:02:29 EEST 2015]; root of context hierarchy
+2015-03-29 15:02:29 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 15:02:31 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@d8d25de: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 15:02:44 INFO  MessageBoardFrame:631 - Удален из таблицы: Артур 2015.03.27 05:23:33 аренда Куплю Тестовый текст
+
+2015-03-29 18:27:49 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 18:27:49 EEST 2015]; root of context hierarchy
+2015-03-29 18:27:49 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 18:27:51 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2e058fad: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 18:30:14 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 18:30:14 EEST 2015]; root of context hierarchy
+2015-03-29 18:30:14 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 18:30:15 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@45d144f2: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 18:30:26 INFO  MessageBoardFrame:632 - Удален из таблицы: Артур 2015.03.27 05:23:33 аренда Куплю Тестовый текст
+
+2015-03-29 18:31:11 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 18:31:11 EEST 2015]; root of context hierarchy
+2015-03-29 18:31:11 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 18:31:12 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2db118c5: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 18:31:20 INFO  MessageBoardFrame:632 - Удален из таблицы: Артур 2015.03.27 05:23:33 аренда Куплю Тестовый текст
+
+2015-03-29 19:11:01 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 19:11:01 EEST 2015]; root of context hierarchy
+2015-03-29 19:11:02 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:11:06 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:11:15 INFO  MessageBoardFrame:199 - Приложение запустилось !
+2015-03-29 19:11:26 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 19:11:26 EEST 2015]; root of context hierarchy
+2015-03-29 19:11:26 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:11:29 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:14:33 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 19:14:33 EEST 2015]; root of context hierarchy
+2015-03-29 19:14:33 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:14:34 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:14:40 ERROR MessageBoardFrame:313 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:14:40 ERROR MessageBoardFrame:381 - Не найден файл с объвлениями - ./resourcse/serialization.xml
+2015-03-29 19:21:20 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 19:21:20 EEST 2015]; root of context hierarchy
+2015-03-29 19:21:20 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:22:35 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 19:22:35 EEST 2015]; root of context hierarchy
+2015-03-29 19:22:35 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:23:27 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 19:23:27 EEST 2015]; root of context hierarchy
+2015-03-29 19:23:27 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:23:45 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 19:23:45 EEST 2015]; root of context hierarchy
+2015-03-29 19:23:45 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:25:10 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Sun Mar 29 19:25:10 EEST 2015]; root of context hierarchy
+2015-03-29 19:25:10 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:26:36 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Sun Mar 29 19:26:36 EEST 2015]; root of context hierarchy
+2015-03-29 19:26:36 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:26:41 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@39f9684: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:26:47 ERROR MessageBoardFrame:318 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:26:47 ERROR MessageBoardFrame:386 - Не найден файл с объвлениями - ./resourcse/serialization.xml
+2015-03-29 19:27:06 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 19:27:06 EEST 2015]; root of context hierarchy
+2015-03-29 19:27:06 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:27:10 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@39f9684: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:27:14 ERROR MessageBoardFrame:318 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:27:14 ERROR MessageBoardFrame:386 - Не найден файл с объвлениями - ./resourcse/serialization.xml
+2015-03-29 19:27:36 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 19:27:36 EEST 2015]; root of context hierarchy
+2015-03-29 19:27:36 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:27:42 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Sun Mar 29 19:27:42 EEST 2015]; root of context hierarchy
+2015-03-29 19:27:42 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:27:43 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6252b5f7: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:27:48 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@356525f7: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:27:55 ERROR MessageBoardFrame:318 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:27:55 ERROR MessageBoardFrame:386 - Не найден файл с объвлениями - ./src/main/java/resourcse/serialization.xml
+2015-03-29 19:28:18 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 19:28:18 EEST 2015]; root of context hierarchy
+2015-03-29 19:28:18 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:28:24 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@39f9684: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:28:28 ERROR MessageBoardFrame:318 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:28:28 ERROR MessageBoardFrame:386 - Не найден файл с объвлениями - ./src/main/java/resourcse/serialization.xml
+2015-03-29 19:28:41 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Sun Mar 29 19:28:41 EEST 2015]; root of context hierarchy
+2015-03-29 19:28:41 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:28:45 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@93bce4d: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:28:52 ERROR MessageBoardFrame:318 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:28:52 ERROR MessageBoardFrame:386 - Не найден файл с объвлениями - ./src/main/java/resourcse/serialization.xml
+2015-03-29 19:30:26 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Sun Mar 29 19:30:26 EEST 2015]; root of context hierarchy
+2015-03-29 19:30:26 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:30:28 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@93bce4d: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:30:35 ERROR MessageBoardFrame:319 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:30:35 ERROR MessageBoardFrame:387 - Не найден файл с объвлениями - ./src/main/java/resourcse/serialization.xml
+2015-03-29 19:31:01 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 19:31:01 EEST 2015]; root of context hierarchy
+2015-03-29 19:31:01 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:31:03 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@39f9684: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:31:10 ERROR MessageBoardFrame:319 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:31:59 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 19:31:59 EEST 2015]; root of context hierarchy
+2015-03-29 19:31:59 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:32:03 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c124bb9: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:32:08 ERROR MessageBoardFrame:319 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:32:59 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 19:32:59 EEST 2015]; root of context hierarchy
+2015-03-29 19:32:59 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:33:05 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2c124bb9: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 19:33:10 ERROR MessageBoardFrame:319 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 19:33:28 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 19:33:28 EEST 2015]; root of context hierarchy
+2015-03-29 19:33:28 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 19:33:30 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 20:23:22 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 20:23:22 EEST 2015]; root of context hierarchy
+2015-03-29 20:23:22 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 20:23:23 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 20:45:48 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c2c0d3e: startup date [Sun Mar 29 20:45:48 EEST 2015]; root of context hierarchy
+2015-03-29 20:45:48 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 20:45:49 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2e058fad: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 20:45:54 ERROR MessageBoardFrame:319 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 21:25:34 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3019a122: startup date [Sun Mar 29 21:25:34 EEST 2015]; root of context hierarchy
+2015-03-29 21:25:35 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 21:25:36 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6f1bbe75: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 21:26:58 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@62a1d7d9: startup date [Sun Mar 29 21:26:58 EEST 2015]; root of context hierarchy
+2015-03-29 21:26:58 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 21:26:59 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 21:27:04 ERROR MessageBoardFrame:320 - Не удалась загрузка рубрик из файла - ./src/main/java/topic.properties
+2015-03-29 21:27:04 ERROR MessageBoardFrame:389 - Не найден файл с объвлениями - ./src/main/java/resources/serialization.xml
+2015-03-29 21:27:34 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 21:27:34 EEST 2015]; root of context hierarchy
+2015-03-29 21:27:34 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/bean.xml]
+2015-03-29 21:27:36 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy
+2015-03-29 21:28:51 INFO  ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f621a25: startup date [Sun Mar 29 21:28:51 EEST 2015]; root of context hierarchy
+2015-03-29 21:28:52 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [bean.xml]
+2015-03-29 21:28:53 INFO  DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@76b03b7f: defining beans [printXml,printJson,messageBoard,mainFrame]; root of factory hierarchy

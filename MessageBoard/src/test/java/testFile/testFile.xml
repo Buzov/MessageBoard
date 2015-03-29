@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_65" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="ru.messageBoard.model.Declaration">
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1427588421000</long>
+     </object>
+    </void>
+    <void property="head">
+     <string>Я Последний</string>
+    </void>
+    <void property="nameOfAuthor">
+     <string>Ъртур</string>
+    </void>
+    <void property="text">
+     <string>Тестовый текст</string>
+    </void>
+    <void property="topic">
+     <string>аренда</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ru.messageBoard.model.Declaration">
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1427588422000</long>
+     </object>
+    </void>
+    <void property="head">
+     <string>Продам</string>
+    </void>
+    <void property="nameOfAuthor">
+     <string>Артур</string>
+    </void>
+    <void property="text">
+     <string>Тестовый текст</string>
+    </void>
+    <void property="topic">
+     <string>Ъпокупка</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ru.messageBoard.model.Declaration">
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1427588423000</long>
+     </object>
+    </void>
+    <void property="head">
+     <string>Продам</string>
+    </void>
+    <void property="nameOfAuthor">
+     <string>Дмитрий</string>
+    </void>
+    <void property="text">
+     <string>Тестовый текст</string>
+    </void>
+    <void property="topic">
+     <string>продажа</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ru.messageBoard.model.Declaration">
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1427588424000</long>
+     </object>
+    </void>
+    <void property="head">
+     <string>А первый</string>
+    </void>
+    <void property="nameOfAuthor">
+     <string>Кирил</string>
+    </void>
+    <void property="text">
+     <string>Тестовый текст</string>
+    </void>
+    <void property="topic">
+     <string>япродажа</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

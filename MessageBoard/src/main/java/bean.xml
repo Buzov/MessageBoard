@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.1.xsd">
+
+	<!-- При указании типа создаваемого объекта name="io" ref="printXml"
+		 необходимо отслеживать чтобы в объекте id="mainFrame"
+		 был указан путь к соответствующему файлу с объявлениями name="pathFromFile" value="".
+		 При указании IoXmlDeclaration файл с объвлениями должен быть в формате XML,
+		 а при IoJsonDeclaration - в формате JSON -->
+
+	<!-- IoXmlDeclaration - использовать для чтения и записи XML -->
+	<bean id="printXml" class="ru.messageBoard.model.io.IoXmlDeclaration"/>
+
+	<!-- IoJsonDeclaration - использовать для чтения и записи JSON -->
+	<bean id="printJson" class="ru.messageBoard.model.io.IoJsonDeclaration"/>
+	
+	<!-- MessageBoard - харнит в себе массив объявлений и производит операции над ним -->
+	<bean id="messageBoard" class="ru.messageBoard.controller.MessageBoard"/>
+
+	<!-- Бин главного окна приложения -->
+	<bean id="mainFrame" class="ru.messageBoard.view.MessageBoardFrame">
+		
+		<!--  <constructor-arg name="pathFromFile" type="String"  value="./serialization.xml"/> Способ задавать через конструктор -->
+		
+		<!-- Задаем путь к файлу с рубриками -->
+		<property name="pathToTopic" value="./topic.properties"/>
+		
+		<!-- Задаем путь к файлу с объвлениями -->
+		<property name="pathFromFile" value="./serialization.xml"/>
+		
+		<!-- Задаем корневой каталог -->
+		<property name="rootDirectory" value="./"/>
+		
+		<!-- Задаем фабрику для работы с файлами -->
+		<property name="io" ref="printXml"/>
+		
+	</bean>
+
+</beans>
